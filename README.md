@@ -29,10 +29,10 @@ Based on input, the model predicts the approximate price of the laptop.
 
 🔧 Installation & Run Locally
 
-git clone https://github.com/your-username/laptop-price-predictor.git
-cd laptop-price-predictor
-pip install -r requirements.txt
-streamlit run app.py
+ git clone https://github.com/your-username/laptop-price-predictor.git
+ cd laptop-price-predictor
+ pip install -r requirements.txt
+ streamlit run app.py
 
 📈 Model Accuracy
 
